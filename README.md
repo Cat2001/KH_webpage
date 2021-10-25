@@ -24,6 +24,7 @@ I am Cat, a seasoned data scientist with ~7 years of progressive experience in a
 [Education](#education) <br>
 [Projects](#projects) <br>
 [Featured](#featured) <br> 
+[ECA](#featured) <br> 
 
 <!-- ABOUT Section Ends -->
 
